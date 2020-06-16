@@ -8,3 +8,5 @@ echo "how are you."<br>;
 echo "this from devleloper side."<br>; 
 echo "2nd time change the code."<br>; 
  ?>
+ </body>
+</html>
