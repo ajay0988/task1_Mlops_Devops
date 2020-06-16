@@ -1,10 +1,10 @@
+<html>
+<body>
 <?php
-<br>
-welcome in my website
-task1_mlops
-hello everyone
-how are you
-this from devleloper side 
-2nd time change the code 
-</br>
+echo "welcome in my website."<br>;
+echo "task1_mlops."<br>;
+echo "hello everyone."<br>;
+echo "how are you."<br>;
+echo "this from devleloper side."<br>; 
+echo "2nd time change the code."<br>; 
  ?>
